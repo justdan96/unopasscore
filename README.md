@@ -8,6 +8,10 @@ PassCore does not require any configuration, as it obtains the principal context
 
 IMPORTANT: If you are going to expose this web app outside your LAN, please use https
 
+Here's a screenshot of the UI.
+
+![Alt text](/../main/unopasscore-screenshot.png?raw=true "PassCore screenshot")
+
 ## Installation Instructions
 
 Installation instructions for non-developers/sys admins:
